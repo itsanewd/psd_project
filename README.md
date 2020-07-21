@@ -1,9 +1,8 @@
 #How to use:
-#Method 1
 #Install Termux
 #Type: pkg install tsu
 #Type: sudo ./psd
-#Or rename psd to psd.sh and you can run with MT Manager
+#Or rename psd to psd.sh then run with MT Manager
 
 #Author: Fii
 #Telegram: @itsanewd
